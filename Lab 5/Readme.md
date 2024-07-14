@@ -1,5 +1,5 @@
 # SIGNAL PROCESSING LAB-5 
-> Abhinav Marri <br>2021112015</br>
+> Abhinav Marri
 
 ## Question 1
 -  Script `q1_d.m` gives us the ffts of the signal x[n]. It plots them while changing the sample rate of the DFT when run. 
